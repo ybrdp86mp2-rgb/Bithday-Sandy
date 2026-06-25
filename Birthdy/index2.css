@@ -1,0 +1,106 @@
+body{
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+
+}
+
+h1{
+    text-align: center;
+}
+
+div.Cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+div.card1{
+    border: 3px solid white;
+    width: 200px;
+    box-shadow:0 2px 14px white; ;
+    
+}
+
+div.card1:hover{
+    background: #e91e63;
+    transform: scale(1.05);
+    transition: 0.3s;
+
+}
+
+div.card2{
+    border: 3px solid white;
+    width: 200px;
+    box-shadow:0 2px 14px white;
+    
+    
+}
+
+div.card2:hover{
+    background: #e91e63;
+    transform: scale(1.05);
+    transition: 0.3s;
+
+}
+
+div.card3{
+    border: 3px solid white;
+    width: 200px;
+    box-shadow:0 2px 14px white;
+    
+    
+}
+
+div.card3:hover{
+    background: #e91e63;
+    transform: scale(1.05);
+    transition: 0.3s;
+
+}
+div.card4{
+    border: 3px solid white;
+    width: 200px;
+    box-shadow:0 2px 14px white;
+    margin-bottom: 120px;
+
+    
+    
+}
+
+div.card4:hover{
+    background: #e91e63;
+    transform: scale(1.05);
+    transition: 0.3s;
+
+}
+div.card5{
+    border: 3px solid white;
+    width: 200px;
+    box-shadow:0 2px 14px white;
+    margin-bottom: 120px;
+    
+    
+}
+
+div.card5:hover{
+    background: #e91e63;
+    transform: scale(1.05);
+    transition: 0.3s;
+
+}
+div.card6{
+    border: 3px solid white;
+    width: 200px;
+    box-shadow:0 2px 14px white;
+    
+    
+}
+
+div.card6:hover{
+    background: #e91e63;
+    transform: scale(1.05);
+    transition: 0.3s;
+
+}
+
+
